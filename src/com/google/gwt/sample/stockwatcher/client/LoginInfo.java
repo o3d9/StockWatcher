@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class LoginInfo implements Serializable {
 
-	//to check user
+	//another change just to commit new stuff
 	 private boolean loggedIn = false;
 	  private String loginUrl;
 	  private String logoutUrl;

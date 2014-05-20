@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 public class LoginInfo implements Serializable {
 
+	//to check user
 	 private boolean loggedIn = false;
 	  private String loginUrl;
 	  private String logoutUrl;
